@@ -1,0 +1,21 @@
+date,category,description,amount,payment_mode,month,weekday
+2024-01-03,Food,Groceries,1500,Upi,2024-01,Wednesday
+2024-01-05,Transport,Cab Fare,350,Cash,2024-01,Friday
+2024-01-07,Entertainment,Movie Tickets,600,Card,2024-01,Sunday
+2024-01-10,Bills,Electricity Bill,2200,Upi,2024-01,Wednesday
+2024-01-12,Food,Restaurant,900,Card,2024-01,Friday
+2024-01-15,Shopping,Clothes,3200,Card,2024-01,Monday
+2024-01-18,Transport,Fuel,1800,Upi,2024-01,Thursday
+2024-02-02,Food,Groceries,1650,Upi,2024-02,Friday
+2024-02-04,Bills,Mobile Recharge,400,Upi,2024-02,Sunday
+2024-02-09,Entertainment,Streaming Subscription,500,Card,2024-02,Friday
+2024-02-14,Food,Restaurant,1100,Cash,2024-02,Wednesday
+2024-02-20,Shopping,Electronics,5400,Card,2024-02,Tuesday
+2024-02-25,Transport,Cab Fare,420,Cash,2024-02,Sunday
+2024-03-01,Bills,Rent,12000,Upi,2024-03,Friday
+2024-03-05,Food,Groceries,1700,Upi,2024-03,Tuesday
+2024-03-08,Transport,Fuel,1900,Upi,2024-03,Friday
+2024-03-12,Entertainment,Concert Ticket,2500,Card,2024-03,Tuesday
+2024-03-16,Food,Restaurant,750,Cash,2024-03,Saturday
+2024-03-22,Shopping,Shoes,2800,Card,2024-03,Friday
+2024-03-28,Bills,Internet Bill,999,Upi,2024-03,Thursday

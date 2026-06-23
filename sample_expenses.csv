@@ -1,0 +1,21 @@
+Date,Category,Description,Amount,Payment Mode
+2024-01-03,Food,Groceries,1500,UPI
+2024-01-05,Transport,Cab fare,350,Cash
+2024-01-07,Entertainment,Movie tickets,600,Card
+2024-01-10,Bills,Electricity bill,2200,UPI
+2024-01-12,Food,Restaurant,900,Card
+2024-01-15,Shopping,Clothes,3200,Card
+2024-01-18,Transport,Fuel,1800,UPI
+2024-02-02,Food,Groceries,1650,UPI
+2024-02-04,Bills,Mobile recharge,400,UPI
+2024-02-09,Entertainment,Streaming subscription,500,Card
+2024-02-14,Food,Restaurant,1100,Cash
+2024-02-20,Shopping,Electronics,5400,Card
+2024-02-25,Transport,Cab fare,420,Cash
+2024-03-01,Bills,Rent,12000,UPI
+2024-03-05,Food,Groceries,1700,UPI
+2024-03-08,Transport,Fuel,1900,UPI
+2024-03-12,Entertainment,Concert ticket,2500,Card
+2024-03-16,Food,Restaurant,750,Cash
+2024-03-22,Shopping,Shoes,2800,Card
+2024-03-28,Bills,Internet bill,999,UPI
